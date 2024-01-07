@@ -94,13 +94,13 @@
 ## Variables
 
 ### Required Variables
-* `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
-* `API_ID`: Get this value from [telegram.org](https://my.telegram.org/apps)
-* `API_HASH`: Get this value from [telegram.org](https://my.telegram.org/apps)
+* `BOT_TOKEN`: Create a bot using [6920034055:AAHTuLs1z1E9XTbg7KjY1QgYvEmkajvqRZk](https://telegram.dog/BotFather), and get the Telegram API token.
+* `API_ID`: Get this value from [28067684](https://my.telegram.org/apps)
+* `API_HASH`: Get this value from [5f459be1e9c7dfc0be3087a2fc9dd854](https://my.telegram.org/apps)
 * `CHANNELS`: Username or ID of channel or group. Separate multiple IDs by space
 * `ADMINS`: Username or ID of Admin. Separate multiple Admins by space
-* `DATABASE_URI`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
-* `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com).
+* `DATABASE_URI`: [mongodb+srv://UkNobody:<11234sidhi>@clusternobody.5xhv05s.mongodb.net/](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
+* `DATABASE_NAME`: Name of the database in [https://cloud.mongodb.com/v2/659a2608a5f0421b7c74e16e#/clusters](https://www.mongodb.com).
 * `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
 ### Optional Variables
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
